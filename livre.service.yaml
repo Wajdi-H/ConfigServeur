@@ -1,1 +1,1 @@
-Database : "mongodb://http://172.17.0.1:27019/biblio"
+Database : "mongodb://172.17.0.1:27019/biblio"
