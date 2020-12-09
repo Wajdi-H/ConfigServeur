@@ -1,0 +1,3 @@
+ConnectionString: "mongodb://mongocategory:27018"
+DatabaseName: "category"
+Collection: "cat"
