@@ -1,0 +1,3 @@
+ClientsCollectionName: "Client1"
+ConnectionString: "mongodb://clientmongo:27017"
+DatabaseName: "clientmongo"
